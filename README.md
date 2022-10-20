@@ -3,6 +3,7 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: ...
 - 😄 Pronouns: M.
+- Stack overflow : https://stackoverflow.com/users/7380277/bernard-agbemadon
 <!--
 **bernardagbemadon/bernardagbemadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
