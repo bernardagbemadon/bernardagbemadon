@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Data science projects
+- 💬 Ask me about Python
+- 📫 How to reach me: ...
+- 😄 Pronouns: M.
 <!--
 **bernardagbemadon/bernardagbemadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
